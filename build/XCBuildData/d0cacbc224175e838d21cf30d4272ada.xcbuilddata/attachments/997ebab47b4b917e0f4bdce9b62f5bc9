@@ -1,0 +1,120 @@
+{
+  "" : {
+    "const-values" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCellKit-master.swiftconstvalues",
+    "dependencies" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCellKit-master.d",
+    "diagnostics" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCellKit-master.dia",
+    "emit-module-dependencies" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCellKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCellKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCellKit-master.swiftdeps"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/Extensions.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/Swipeable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/Swipeable.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/Swipeable.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/Swipeable.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeAccessibilityCustomAction.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeAccessibilityCustomAction.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeAccessibilityCustomAction.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeAccessibilityCustomAction.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeAction.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeAction.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeAction.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeAction.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeActionButton.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeActionButton.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeActionButton.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeActionButton.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeActionsView.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeActionsView.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeActionsView.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeActionsView.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeActionTransitioning.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeActionTransitioning.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeActionTransitioning.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeActionTransitioning.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeAnimator.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeAnimator.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeAnimator.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeAnimator.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeCollectionViewCell.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCell.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCell.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCell.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeCollectionViewCell+Accessibility.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCell+Accessibility.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCell+Accessibility.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCell+Accessibility.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeCollectionViewCell+Display.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCell+Display.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCell+Display.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCell+Display.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeCollectionViewCellDelegate.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCellDelegate.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCellDelegate.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeCollectionViewCellDelegate.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeController.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeController.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeController.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeController.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeExpanding.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeExpanding.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeExpanding.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeExpanding.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeExpansionStyle.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeExpansionStyle.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeExpansionStyle.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeExpansionStyle.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeFeedback.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeFeedback.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeFeedback.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeFeedback.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeOptions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeOptions.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeOptions.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeOptions.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeTableViewCell.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCell.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCell.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCell.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeTableViewCell+Accessibility.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCell+Accessibility.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCell+Accessibility.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCell+Accessibility.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeTableViewCell+Display.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCell+Display.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCell+Display.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCell+Display.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeTableViewCellDelegate.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCellDelegate.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCellDelegate.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTableViewCellDelegate.o"
+  },
+  "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/SwipeCellKit/Source/SwipeTransitionLayout.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTransitionLayout.o",
+    "llvm-bc" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTransitionLayout.bc",
+    "object" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/build/Pods.build/Release-iphoneos/SwipeCellKit.build/Objects-normal/arm64/SwipeTransitionLayout.o"
+  }
+}

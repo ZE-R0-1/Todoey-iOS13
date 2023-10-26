@@ -1,0 +1,47 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e4071e54eaa02f4b9b6a76d1c8df2d3b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98afdf75462af76f00da874de43f62731e"
+    }
+  ],
+  "containerPath" : "/Users/yoonjoonyoung/Desktop/Angela_Yu/Todoey-iOS13/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/yoonjoonyoung/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/yoonjoonyoung/Library/Developer/Xcode/DerivedData/Pods-bmjktsyvgpueuedhvjkjgfydwwqc/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/yoonjoonyoung/Library/Developer/Xcode/DerivedData/Pods-bmjktsyvgpueuedhvjkjgfydwwqc/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

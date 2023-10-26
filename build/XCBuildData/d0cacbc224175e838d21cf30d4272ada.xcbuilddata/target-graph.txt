@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Pods-Todoey' in project 'Pods'
+➜ Explicit dependency on target 'SwipeCellKit' in project 'Pods'
+Target 'SwipeCellKit' in project 'Pods' (no dependencies)
